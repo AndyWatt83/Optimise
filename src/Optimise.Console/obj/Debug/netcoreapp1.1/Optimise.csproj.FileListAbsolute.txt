@@ -1,0 +1,16 @@
+C:\Development\Optimise\bin\Debug\netcoreapp1.1\Optimise.deps.json
+C:\Development\Optimise\bin\Debug\netcoreapp1.1\Optimise.runtimeconfig.json
+C:\Development\Optimise\bin\Debug\netcoreapp1.1\Optimise.runtimeconfig.dev.json
+C:\Development\Optimise\bin\Debug\netcoreapp1.1\Optimise.dll
+C:\Development\Optimise\bin\Debug\netcoreapp1.1\Optimise.pdb
+C:\Development\Optimise\obj\Debug\netcoreapp1.1\Optimise.AssemblyInfo.cs
+C:\Development\Optimise\obj\Debug\netcoreapp1.1\Optimise.dll
+C:\Development\Optimise\obj\Debug\netcoreapp1.1\Optimise.pdb
+C:\Development\Optimise\Optimise.Console\bin\Debug\netcoreapp1.1\Optimise.deps.json
+C:\Development\Optimise\Optimise.Console\bin\Debug\netcoreapp1.1\Optimise.runtimeconfig.json
+C:\Development\Optimise\Optimise.Console\bin\Debug\netcoreapp1.1\Optimise.runtimeconfig.dev.json
+C:\Development\Optimise\Optimise.Console\bin\Debug\netcoreapp1.1\Optimise.dll
+C:\Development\Optimise\Optimise.Console\bin\Debug\netcoreapp1.1\Optimise.pdb
+C:\Development\Optimise\Optimise.Console\obj\Debug\netcoreapp1.1\Optimise.AssemblyInfo.cs
+C:\Development\Optimise\Optimise.Console\obj\Debug\netcoreapp1.1\Optimise.dll
+C:\Development\Optimise\Optimise.Console\obj\Debug\netcoreapp1.1\Optimise.pdb

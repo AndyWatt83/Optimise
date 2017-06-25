@@ -1,0 +1,6 @@
+c:\Development\Optimise\src\Optimise.Logic\bin\Debug\netstandard1.4\Optimise.Logic.deps.json
+c:\Development\Optimise\src\Optimise.Logic\bin\Debug\netstandard1.4\Optimise.Logic.dll
+c:\Development\Optimise\src\Optimise.Logic\bin\Debug\netstandard1.4\Optimise.Logic.pdb
+c:\Development\Optimise\src\Optimise.Logic\obj\Debug\netstandard1.4\Optimise.Logic.AssemblyInfo.cs
+c:\Development\Optimise\src\Optimise.Logic\obj\Debug\netstandard1.4\Optimise.Logic.dll
+c:\Development\Optimise\src\Optimise.Logic\obj\Debug\netstandard1.4\Optimise.Logic.pdb

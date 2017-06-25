@@ -1,0 +1,13 @@
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\Optimise.Logic.Tests.deps.json
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\Optimise.Logic.Tests.runtimeconfig.json
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\Optimise.Logic.Tests.runtimeconfig.dev.json
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\Optimise.Logic.Tests.dll
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\Optimise.Logic.Tests.pdb
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\Optimise.Logic.dll
+C:\Development\Optimise\test\Optimise.Logic.Tests\bin\Debug\netcoreapp1.1\Optimise.Logic.pdb
+C:\Development\Optimise\test\Optimise.Logic.Tests\obj\Debug\netcoreapp1.1\Optimise.Logic.Tests.AssemblyInfo.cs
+C:\Development\Optimise\test\Optimise.Logic.Tests\obj\Debug\netcoreapp1.1\Optimise.Logic.Tests.dll
+C:\Development\Optimise\test\Optimise.Logic.Tests\obj\Debug\netcoreapp1.1\Optimise.Logic.Tests.pdb

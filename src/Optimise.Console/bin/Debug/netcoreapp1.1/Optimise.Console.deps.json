@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "optimise.console/1.0.0": {
+        "dependencies": {
+          "Optimise.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Optimise.Console.dll": {}
+        }
+      },
+      "optimise.logic/1.0.0": {
+        "runtime": {
+          "Optimise.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "optimise.console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "optimise.logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
